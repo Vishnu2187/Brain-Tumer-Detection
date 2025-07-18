@@ -61,6 +61,6 @@ dataset/
 
 ## 📬 Contact
 
-**Your Name**  
+**Vishnu Vardhan**  
 GitHub: [github.com/Vishnu2187](https://github.com/Vishnu2187)  
 Email: vishnuvardhankudikyala@gmail.com
