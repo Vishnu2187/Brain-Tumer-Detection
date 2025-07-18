@@ -29,8 +29,8 @@ dataset/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-classification.git
-   cd brain-tumor-classification
+   git clone https://github.com/Vishnu2187/Brain-Tumer-Detection.git
+   cd Brain-Tumer-Detection
    ```
 
 2. Install dependencies:
@@ -38,7 +38,7 @@ dataset/
    pip install -r requirements.txt
    ```
 
-3. Train the model (optional if `brain_tumor_multiclass_model.h5` is present):
+3. Train the model :
    ```python
    python train_model.py
    ```
@@ -62,5 +62,5 @@ dataset/
 ## 📬 Contact
 
 **Your Name**  
-GitHub: [github.com/yourusername](https://github.com/yourusername)  
-Email: your.email@example.com
+GitHub: [github.com/Vishnu2187](https://github.com/Vishnu2187)  
+Email: vishnuvardhankudikyala@gmail.com
